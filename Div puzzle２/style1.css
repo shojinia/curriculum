@@ -21,11 +21,17 @@ body {
     background-color: #80bfa8;
     float: left;
 }
+.center-right{
+    height: 150px;
+    width: 100px;
+    background-color: #ff9a6b;
+    float: right;
+}
 .right center{
     float: left;
 }
 .center{
-    float: left;
+    float: right;
 }
 .center-up{
     height: 50px;
@@ -36,12 +42,6 @@ body {
     height: 100px;
     width: 150px;
     background-color: #0093b7;
-}
-.center-right{
-    height: 150px;
-    width: 100px;
-    background-color: #ff9a6b;
-    float: left;
 }
 .center-lower{
     height: 100px;
