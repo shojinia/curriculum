@@ -1,0 +1,50 @@
+@media screen and (max-width: 479px){
+    .header{
+        height: 230px;
+        width: 200px;
+    }
+    .box{
+        display: initial;
+    }  
+    .one{
+        margin-left: 70px;
+    }
+    .two{
+        margin-left: 70px;
+    }
+    .three{
+        margin-left: 70px;
+    }
+    .main{
+        display: initial;
+        height: 250px;
+        width: 200px;
+    } 
+    .left{
+        background-color: #80bfa8;
+        height: 80px;
+        width: 200px;
+    }
+    .right{
+        height: 190px;
+        width: 200px;
+        padding-top: 20px;
+    }
+    .right li{
+        width: 140px;
+    }
+    .inbox{
+        margin-left: 30px;
+        margin-top: 5px;
+    }
+    ul li:first-child{
+        margin-top: 0;
+    }
+    .footer{
+        height: 100px;
+        width: 200px;
+    }
+
+
+
+}
