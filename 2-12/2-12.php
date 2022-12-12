@@ -7,7 +7,7 @@
         <input type="radio" name="gift" value="C賞">C賞
     <br>
     個数：
-    <select name="count">
+    <select name="number">
         <?php for ($i=1;$i<=10;$i++){ ?>
             <option value="<?php echo $i; ?>">
                 <?php echo $i;?>
