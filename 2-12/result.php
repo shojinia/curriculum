@@ -1,7 +1,7 @@
 <?php
     $my_name = $_POST['my_name'];
     $radio = $_POST['gift'];
-    $count = $_POST['number'];
+    $number = $_POST['number'];
     ?>
     <p>お名前：<?php echo $my_name; ?></p>
     <p>ご希望景品：<?php echo $radio; ?></p>
