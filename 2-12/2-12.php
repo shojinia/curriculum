@@ -16,5 +16,6 @@
     </select>
     <br>
     <input type="submit" value="申込" />
+</form>
 
 
